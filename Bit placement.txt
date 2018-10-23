@@ -1,9 +1,0 @@
-first bit: line-1, col-1
-second bit: line-1, col
-third bit: line-1, col+1
-...
-
-bits positions:
-1  2  3 
-8  n  4
-7  6  5
